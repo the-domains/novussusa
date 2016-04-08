@@ -1,0 +1,28 @@
+name: NovussUSA
+favicon: null
+layout_spectrum: 0.2854405171237886
+typography_spectrum: 0.5372415871825069
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.36148196063004434
+  lightness: 0.645056129200384
+  saturation: 0.3518306636251509
+  rhythmicContrast: 0.5263085749465972
+purpose: []
