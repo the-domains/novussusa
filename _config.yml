@@ -1,19 +1,4 @@
-name: NovussUSA
-favicon: null
-layout_spectrum: 0.2854405171237886
 typography_spectrum: 0.5372415871825069
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2854405171237886
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: NovussUSA
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: You have to beat the best to be the best!!!
 purpose: []
