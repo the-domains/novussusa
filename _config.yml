@@ -19,11 +19,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: NovussUSA
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/93aa4853-a87a-4cda-adf2-d3f06d906575.jpg
+name: American Novuss Association
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5aba13c-b525-4b1a-b8bb-af9926d9b30c.png
+title: You have to Beat the Best to be the Best!!!
 description: You have to beat the best to be the best!!!
 purpose: []
