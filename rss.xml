@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[You have to Beat the Best to be the Best!!!]]></title>
+        <description><![CDATA[You have to Beat the Best to be the Best!!!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 17:39:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdc3ff0a-925b-4188-96a4-20d32b91557c.jpg">]]></description>
+            <link>undefined2ace157c-0248-4422-b80d-cd888e03f1ce/index.html</link>
+            <guid isPermaLink="false">2ace157c-0248-4422-b80d-cd888e03f1ce</guid>
+            <pubDate>Wed, 17 Aug 2016 17:38:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
